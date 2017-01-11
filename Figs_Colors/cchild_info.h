@@ -32,6 +32,7 @@ private:
     QString gender;
     QString td;    //Typically developed
     int nSessions;
+
 };
 
 #endif // CCHILD_INFO_H
